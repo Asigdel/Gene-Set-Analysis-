@@ -1,6 +1,8 @@
 rm(list=ls())
-####################
-## Gene Set Analysis
+##########################
+## Gene Set Analysis##
+## We are trying to push these to GitHub depsoitory ##
+############################
 setwd("~/Documents/Geneset_Analysis")
 
 ## FILE freqdata.count.after.clean
